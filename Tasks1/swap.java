@@ -1,3 +1,4 @@
+package Tasks1;
 // Write a Java program to swap two numbers without using a third variable.
 
 import java.util.Scanner;

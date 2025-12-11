@@ -1,4 +1,4 @@
-package Tasks;
+package Tasks1;
 // Write a Java program to find the sum of all elements in an integer array.
 
 import java.util.Scanner;

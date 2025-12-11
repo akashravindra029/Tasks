@@ -1,4 +1,4 @@
-// write a program to find the largest of three numbers without using functions
+//1. write a program to find the largest of three numbers without using functions
 
 let num1 = 15;
 let num2 = 25;
@@ -16,7 +16,7 @@ else{
     console.log(num3 + " is the largest number.");
 }   
 
-//Write a JavaScript program to reverse a string without using the reverse() method.
+//2.Write a JavaScript program to reverse a string without using the reverse() method.
 
 
 let str = "Hello World";
@@ -28,7 +28,7 @@ for(let i = str.length - 1; i >= 0; i--){
 console.log("Reversed String: " + reversedStr);
 
 
-//Write a JavaScript program to check if a number is even or odd.
+//3.Write a JavaScript program to check if a number is even or odd.
 
 let number = 7;
 if(number % 2 === 0){
@@ -39,7 +39,7 @@ if(number % 2 === 0){
 
 
 
-  // Write a JavaScript program to find all duplicate elements in an array.
+//4. Write a JavaScript program to find all duplicate elements in an array.
 
 let arr = [1, 2, 3, 4, 2, 5, 3, 6];
 let duplicates = [];
@@ -57,7 +57,7 @@ for(let i = 0; i < arr.length; i++){
 }
 console.log("Duplicate elements: " + duplicates);
 
-//Write a JavaScript program to remove all vowels from a given string give me the code only.
+// 5.Write a JavaScript program to remove all vowels from a given string give me the code only.
 
 
 let inputStr = "This is a sample string.";

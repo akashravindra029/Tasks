@@ -1,4 +1,4 @@
-package Tasks;
+package Tasks1;
 // 5. Write a Java program to count the number of vowels in a string.
 
 

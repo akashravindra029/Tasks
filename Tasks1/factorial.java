@@ -1,4 +1,4 @@
-package Tasks;
+package Tasks1;
 // Write a Java program to find the factorial of a number using recursion.
 
 

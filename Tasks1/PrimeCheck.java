@@ -1,3 +1,4 @@
+package Tasks1;
 // Write a Java program to check whether a given number is prime.
 
 
